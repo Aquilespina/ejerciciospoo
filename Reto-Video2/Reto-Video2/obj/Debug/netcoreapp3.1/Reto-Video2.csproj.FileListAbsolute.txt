@@ -1,0 +1,14 @@
+C:\Users\aquil\Documents\FPOO\Reto-Video2\Reto-Video2\bin\Debug\netcoreapp3.1\Reto-Video2.exe
+C:\Users\aquil\Documents\FPOO\Reto-Video2\Reto-Video2\bin\Debug\netcoreapp3.1\Reto-Video2.deps.json
+C:\Users\aquil\Documents\FPOO\Reto-Video2\Reto-Video2\bin\Debug\netcoreapp3.1\Reto-Video2.runtimeconfig.json
+C:\Users\aquil\Documents\FPOO\Reto-Video2\Reto-Video2\bin\Debug\netcoreapp3.1\Reto-Video2.runtimeconfig.dev.json
+C:\Users\aquil\Documents\FPOO\Reto-Video2\Reto-Video2\bin\Debug\netcoreapp3.1\Reto-Video2.dll
+C:\Users\aquil\Documents\FPOO\Reto-Video2\Reto-Video2\bin\Debug\netcoreapp3.1\Reto-Video2.pdb
+C:\Users\aquil\Documents\FPOO\Reto-Video2\Reto-Video2\obj\Debug\netcoreapp3.1\Reto-Video2.csproj.AssemblyReference.cache
+C:\Users\aquil\Documents\FPOO\Reto-Video2\Reto-Video2\obj\Debug\netcoreapp3.1\Reto-Video2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aquil\Documents\FPOO\Reto-Video2\Reto-Video2\obj\Debug\netcoreapp3.1\Reto-Video2.AssemblyInfoInputs.cache
+C:\Users\aquil\Documents\FPOO\Reto-Video2\Reto-Video2\obj\Debug\netcoreapp3.1\Reto-Video2.AssemblyInfo.cs
+C:\Users\aquil\Documents\FPOO\Reto-Video2\Reto-Video2\obj\Debug\netcoreapp3.1\Reto-Video2.csproj.CoreCompileInputs.cache
+C:\Users\aquil\Documents\FPOO\Reto-Video2\Reto-Video2\obj\Debug\netcoreapp3.1\Reto-Video2.dll
+C:\Users\aquil\Documents\FPOO\Reto-Video2\Reto-Video2\obj\Debug\netcoreapp3.1\Reto-Video2.pdb
+C:\Users\aquil\Documents\FPOO\Reto-Video2\Reto-Video2\obj\Debug\netcoreapp3.1\Reto-Video2.genruntimeconfig.cache
