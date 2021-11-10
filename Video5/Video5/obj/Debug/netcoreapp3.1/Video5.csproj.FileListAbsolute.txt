@@ -1,0 +1,14 @@
+C:\Users\aquil\Documents\FPOO\Video5\Video5\bin\Debug\netcoreapp3.1\Video5.exe
+C:\Users\aquil\Documents\FPOO\Video5\Video5\bin\Debug\netcoreapp3.1\Video5.deps.json
+C:\Users\aquil\Documents\FPOO\Video5\Video5\bin\Debug\netcoreapp3.1\Video5.runtimeconfig.json
+C:\Users\aquil\Documents\FPOO\Video5\Video5\bin\Debug\netcoreapp3.1\Video5.runtimeconfig.dev.json
+C:\Users\aquil\Documents\FPOO\Video5\Video5\bin\Debug\netcoreapp3.1\Video5.dll
+C:\Users\aquil\Documents\FPOO\Video5\Video5\bin\Debug\netcoreapp3.1\Video5.pdb
+C:\Users\aquil\Documents\FPOO\Video5\Video5\obj\Debug\netcoreapp3.1\Video5.csproj.AssemblyReference.cache
+C:\Users\aquil\Documents\FPOO\Video5\Video5\obj\Debug\netcoreapp3.1\Video5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aquil\Documents\FPOO\Video5\Video5\obj\Debug\netcoreapp3.1\Video5.AssemblyInfoInputs.cache
+C:\Users\aquil\Documents\FPOO\Video5\Video5\obj\Debug\netcoreapp3.1\Video5.AssemblyInfo.cs
+C:\Users\aquil\Documents\FPOO\Video5\Video5\obj\Debug\netcoreapp3.1\Video5.csproj.CoreCompileInputs.cache
+C:\Users\aquil\Documents\FPOO\Video5\Video5\obj\Debug\netcoreapp3.1\Video5.dll
+C:\Users\aquil\Documents\FPOO\Video5\Video5\obj\Debug\netcoreapp3.1\Video5.pdb
+C:\Users\aquil\Documents\FPOO\Video5\Video5\obj\Debug\netcoreapp3.1\Video5.genruntimeconfig.cache
